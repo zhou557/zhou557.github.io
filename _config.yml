@@ -1,7 +1,7 @@
 title: 周文宾的博客
 description: 个人技术博客，记录学习和思考
 baseurl: ""
-url: "https://test-Xi.github.io"
+url: "https://zhou557.github.io"
 
 markdown: kramdown
 theme: minima

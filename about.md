@@ -25,12 +25,12 @@ title: 自我介绍
 
 ## 项目展示
 
-- **Jekyll 博客**: [https://test-Xi.github.io/](https://test-Xi.github.io/)
-- **GitHub 仓库**: [https://github.com/test-Xi/test-Xi.github.io](https://github.com/test-Xi/test-Xi.github.io)
+- **Jekyll 博客**: [https://zhou557.github.io/](https://zhou557.github.io/)
+- **GitHub 仓库**: [https://github.com/zhou557/zhou557.github.io](https://github.com/zhou557/zhou557.github.io)
 
 ## 联系方式
 
-- **GitHub**: [test-Xi](https://github.com/test-Xi)
+- **GitHub**: [zhou557](https://github.com/zhou557)
 - **Email**: zhouwenbin@example.com
 
 ## 个人爱好
