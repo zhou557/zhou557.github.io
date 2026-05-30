@@ -1,7 +1,7 @@
-title: zhou557 的博客
+title: 周文宾的博客
 description: 个人技术博客，记录学习和思考
 baseurl: ""
-url: "https://zhou557.github.io"
+url: "https://test-Xi.github.io"
 
 markdown: kramdown
 theme: minima
@@ -13,8 +13,8 @@ paginate: 5
 paginate_path: "/page:num/"
 
 author:
-  name: zhou557
-  email: zhou557@example.com
+  name: 周文宾
+  email: zhouwenbin@example.com
 
 header_pages:
   - about.md
