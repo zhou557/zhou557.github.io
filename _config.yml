@@ -1,5 +1,5 @@
-title: zhou557.github.io
-description: My personal website
+title: zhou557 的博客
+description: 个人技术博客，记录学习和思考
 baseurl: ""
 url: "https://zhou557.github.io"
 
@@ -7,3 +7,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page:num/"
+
+author:
+  name: zhou557
+  email: zhou557@example.com
+
+header_pages:
+  - about.md
