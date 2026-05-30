@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    container_name: jekyll-dev
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    command: jekyll serve --watch --force_polling --livereload
+    environment:
+      - JEKYLL_ENV=development

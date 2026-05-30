@@ -1,0 +1,9 @@
+title: zhou557.github.io
+description: My personal website
+baseurl: ""
+url: "https://zhou557.github.io"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
